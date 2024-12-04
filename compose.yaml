@@ -1,0 +1,6 @@
+﻿services:
+  chatapp-dotnet-mvc:
+    image: chatapp-dotnet-mvc
+    build:
+      context: .
+      dockerfile: chatapp-dotnet-mvc/Dockerfile
