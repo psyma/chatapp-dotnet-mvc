@@ -1,18 +1,21 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using chatapp_dotnet_mvc.Models;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.Extensions.Logging;
 
 namespace chatapp_dotnet_mvc.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
+    private readonly ILogger _logger;
 
     public HomeController(ILogger<HomeController> logger)
     {
         _logger = logger;
     }
-
+    
+    [Authorize]
     public IActionResult Index()
     {
         return View();
