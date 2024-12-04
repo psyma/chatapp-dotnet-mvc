@@ -74,6 +74,9 @@
       <_ContentIncludedByDefault Remove="Areas\Identity\Pages\Error.cshtml" />
       <_ContentIncludedByDefault Remove="Areas\Identity\Pages\_ViewImports.cshtml" />
       <_ContentIncludedByDefault Remove="Areas\Identity\Pages\_ViewStart.cshtml" />
+      <_ContentIncludedByDefault Remove="home\psyma\Views\Shared\_LoginPartial.cshtml" />
+      <_ContentIncludedByDefault Remove="home\psyma\Views\_ViewImports.cshtml" />
+      <_ContentIncludedByDefault Remove="home\psyma\Views\_ViewStart.cshtml" />
     </ItemGroup>
 
 </Project>
