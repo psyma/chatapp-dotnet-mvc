@@ -1,3 +1,14 @@
+# Simple chat application using ASP.NET MVC & .NET 9
+
+# Features
+```
+Audio Calls ❌
+Video Calls ❌
+End-to-End Encryption ❌
+Two-Factor Authentication (2FA) ❌
+Message Saving (Optional) ❌
+```
+
 # Install node modules
 ```
 1. npm install

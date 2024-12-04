@@ -16,7 +16,7 @@
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var flowbite__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! flowbite */ \"./node_modules/flowbite/lib/esm/index.js\");\n/* harmony import */ var _wwwroot_js_site__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./wwwroot/js/site */ \"./wwwroot/js/site.js\");\n/* harmony import */ var _wwwroot_js_site__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_wwwroot_js_site__WEBPACK_IMPORTED_MODULE_1__);\n// import your node modules packages here\n\n\n\n\n//# sourceURL=webpack://chatapp-dotnet-mvc/./index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _wwwroot_js_site__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./wwwroot/js/site */ \"./wwwroot/js/site.js\");\n\n\n//# sourceURL=webpack://chatapp-dotnet-mvc/./index.js?");
 
 /***/ }),
 
@@ -1178,9 +1178,10 @@ eval("//# sourceMappingURL=declarations.js.map\n\n//# sourceURL=webpack://chatap
 /*!****************************!*\
   !*** ./wwwroot/js/site.js ***!
   \****************************/
-/***/ (() => {
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification\n// for details on configuring this project to bundle and minify static web assets.\n\n// Write your JavaScript code.\n\nconsole.log(\"Hello World!\")\n\n//# sourceURL=webpack://chatapp-dotnet-mvc/./wwwroot/js/site.js?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var flowbite__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! flowbite */ \"./node_modules/flowbite/lib/esm/index.js\");\n﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification\n// for details on configuring this project to bundle and minify static web assets.\n\n// Write your JavaScript code.\n\n\nconsole.log(\"Hello World!\")\n\n//# sourceURL=webpack://chatapp-dotnet-mvc/./wwwroot/js/site.js?");
 
 /***/ })
 
